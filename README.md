@@ -1,2 +1,2 @@
 # DDMetrics
-A discord bot to track DDNet stats.
+## ddnet bot
